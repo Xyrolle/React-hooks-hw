@@ -1,0 +1,5 @@
+export const ACTIONS = {
+  ADD_TODO: "ADD_TODO",
+  CHANGE_TITLE: "CHANGE_TITLE",
+  REMOVE_TASK: "REMOVE_TASK",
+};
